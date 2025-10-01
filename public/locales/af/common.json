@@ -1114,5 +1114,10 @@
         "num_success_latest": "Slaag",
         "num_failure_latest": "Mislukking",
         "bytes_added_30": "Grepe bygevoeg"
+    },
+    "yourspotify": {
+        "songs": "Liedjies",
+        "time": "Tyd",
+        "artists": "Kunstenaars"
     }
 }
