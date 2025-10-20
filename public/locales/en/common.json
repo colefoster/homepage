@@ -238,6 +238,11 @@
         "leech": "Leech",
         "seed": "Seed"
     },
+    "dispatcharr": {
+        "channels": "Channels",
+        "streams": "Streams",
+        "active_streams": "Active Streams"
+    },
     "sonarr": {
         "wanted": "Wanted",
         "queued": "Queued",
